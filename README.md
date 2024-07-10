@@ -82,7 +82,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 [GitHub Repository:](https://github.com/Devinthedeveloper614/Devin-s-NoSQL-challenge)
 
  Walkthrough Video:
-[Click Here to Watch](https://www.loom.com/share/3406acf9a7fd4875ac00f3c1cddb7712?sid=aac17e0c-b6e1-4568-81e8-4ec043e024c5)
+[Click Here to Watch](https://www.loom.com/share/3406acf9a7fd4875ac00f3c1cddb7712?sid=dd76cbe1-c413-4a15-ac62-4d6d37dbf973)
 
 
 
